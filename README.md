@@ -1,8 +1,12 @@
 # 🎓 SSU 스터디
-<a href="https://github.com/eunzzangoo">
-  <img src="https://render.gitanimals.org/farms/eunzzangoo"/>
-</a>
-
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/791680975525994747/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
 함께 읽고, 함께 고민하고,  
 **커밋으로 남기는 즐거운 스터디** 🚀
 
